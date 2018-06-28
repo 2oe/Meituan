@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="../css/detail.css">
+</head>
+
+<body>
+    <div class="wrap">
+
+
+    </div>
+    <script type="text/x-handlebars-template" id="detailTpl">
+        <div class="top">
+            <img src="{{frontImg}}">
+            <div class="pos">
+                <span class="back"><img src="../img/icon_left.png" alt=""></span>
+                <span><img src="../img/icon_right.png"></span>
+            </div>
+        </div>
+        <section>
+            <div class="con">
+                <span>{{avgScore}}分</span>
+                <span>{{commentsCountDesc}}&gt;</span>
+            </div>
+            <div class="con">
+                <h2>{{name}}</h2>
+            </div>
+        </section>
+    </script>
+    <script src="../js/libs/require.js"></script>
+    <script>
+        require(['../js/main.js'], function() {
+            require(['detail']);
+        })
+    </script>
+</body>
+
+</html>

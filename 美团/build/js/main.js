@@ -1,0 +1,1 @@
+require.config({baseUrl:"/js/",paths:{index:"./app/index/index",search:"./app/search/index",list:"./app/list/index",detail:"./app/detail/index",jquery:"./libs/jquery-3.3.1.min",swiper:"./libs/swiper-4.1.6.min",bscroll:"./libs/bscroll.min",handlebars:"./libs/handlebars-v4.0.11",render:"./common/render"}});

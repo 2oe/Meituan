@@ -1,0 +1,1 @@
+require(["jquery","render"],function(r,i){var a=location.search.split("?")[1].split("&"),n={};a.forEach(function(a){var r=a.split("=");n[r[0]]=r[1]}),r.ajax({url:"/api/list",dataType:"json",success:function(a){i("#detailTpl",".wrap",a.data.searchresult[n.id]),r(".back").on("click",function(){location.href="../../page/list.html"})},error:function(a){console.warn(a)}})});

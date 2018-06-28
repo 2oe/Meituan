@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="../css/list.css">
+</head>
+
+<body>
+    <div class="wrap">
+        <header>
+            <span>X</span>
+            <input type="text" placeholder="位置/酒店名/关键词">
+            <div>
+                搜索
+            </div>
+        </header>
+        <section>
+            <div class="con">
+                <!-- <dl>
+                    <dt><img src="../img/1.png" alt=""></dt>
+                    <dd>
+                        <h3>布局换行客户</h3>
+                        <span>1.0</span>
+                        <p>＂你喜欢水吗？＂ "当然喜欢。" ＂太好了，这样你就已经爱上72%的我了！</p>
+                    </dd>
+                </dl> -->
+            </div>
+            <script type="text/x-handlebars-template" id="listTpl">
+                {{#each this}}
+                <dl>
+                    <dt><img src="{{frontImg}}" alt=""></dt>
+                    <dd>
+                        <h3>{{name}}</h3>
+                        <h4><span>{{avgScore}}分</span>￥{{originalPrice}}元</h4>
+                        <p><span>{{poiRecommendTag}}</span>
+                            <span>{{poiSaleAndSpanTag}}</span>
+                            <span>{{posdescr}}</span>
+                            <span>{{poiLastOrderTime}}</span>
+                        </p>
+                    </dd>
+                </dl>
+                {{/each}}
+            </script>
+        </section>
+    </div>
+    <script src="../js/libs/require.js"></script>
+    <script>
+        require(['../js/main.js'], function() {
+            require(['list']);
+        })
+    </script>
+</body>
+
+</html>

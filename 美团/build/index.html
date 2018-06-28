@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="js/libs/swiper-4.1.6.min.css">
+</head>
+
+<body>
+    <div class="wrap">
+        <div class="banner">
+            <div class="swiper-container bannerSwiper">
+                <div class="swiper-wrapper swipers">
+                </div>
+                <div class="swiper-pagination"></div>
+            </div>
+        </div>
+        <script id="swiperTpl" type="text/x-handlebars-template">
+            {{#each this}}
+            <div class="swiper-slide"><img src="{{imageUrl}}"></div>
+            {{/each}}
+        </script>
+        <div class="mark">
+            <div class="tab">
+                <div class="tab_list">
+                    <span class="tab_day">全日房</span>
+                    <span class="tab_hours">钟点房</span>
+                </div>
+                <div class="line"></div>
+            </div>
+            <div class="destination">
+                <span>目的地</span>
+                <a href="http://localhost:8989/page/search.html">北京</a>
+                <span><img src="img/icon.png"></span>
+            </div>
+            <div class="destination">
+                <span>时间</span>
+                <a href="Javascript:">06月27日<span>周三入住</span></a>
+                <span><img src="img/icon.png"></span>
+            </div>
+            <div class="destination">
+                <span>搜索</span>
+                <a href="Javascript:">我的附近<span>位置/酒店</span></a>
+                <span><img src="img/icon.png"></span>
+            </div>
+            <div class="destination">
+                <button id="searchBtn">查找酒店</button>
+            </div>
+        </div>
+    </div>
+    <script src="js/libs/require.js"></script>
+    <script>
+        require(['./js/main.js'], function() {
+            require(['index']);
+        })
+    </script>
+</body>
+
+</html>
