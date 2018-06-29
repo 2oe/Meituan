@@ -1,7 +1,8 @@
 require(['jquery', 'render'], function($, render) {
+    var listName = decodeURI(location.search.split('?')[1].split('=')[1]);
     // 获取页面数据
     $.ajax({
-        url: '/api/list',
+        url: '/api/list?con=' + listName,
         dataType: 'json',
         success: function(res) {
             // 渲染list页面
@@ -19,14 +20,16 @@ require(['jquery', 'render'], function($, render) {
                 })
                 // 点击返回
             $('header').on('click', 'span', function() {
-                    location.href = '/';
-                })
-                // 点击dl跳转详情
+                history.go(-1);
+            })
+
+            // 点击dl跳转详情
             $('.con').on('click', 'dl', function() {
                 var idx = $(this).index();
                 // 跳转详情页和传入id
-                location.href = '../../page/detail.html?id=' + idx;
+                location.href = '../../page/detail.html?id=' + idx + '&con=' + listName;
             })
+
         },
         error: function(error) {
             console.warn(error);

@@ -8,10 +8,8 @@ var autoprefixer = require('gulp-autoprefixer');
 var fs = require('fs');
 var url = require('url');
 var path = require('path');
-var data = require('./data/data.json');
-var search = require('./data/search.json');
-var list = require('./data/list.json');
-
+var data = require('./data');
+var querystring = require('querystring');
 // devsass
 gulp.task('sass', function() {
     return gulp.src('src/scss/*.scss')
@@ -34,16 +32,13 @@ gulp.task('server', function() {
             port: 8989,
             open: true,
             middleware: function(req, res, next) {
+                req.url = querystring.unescape(req.url);
                 var pathname = url.parse(req.url).pathname;
                 if (pathname === '/favicon.ico') {
                     return;
                 }
-                if (pathname === '/api/swiper') {
-                    res.end(JSON.stringify(data));
-                } else if (pathname === '/api/list') {
-                    res.end(JSON.stringify(list));
-                } else if (pathname === '/api/search') {
-                    res.end(JSON.stringify(search));
+                if (/\/api/g.test(pathname)) {
+                    res.end(JSON.stringify(data(req.url)));
                 } else {
                     pathname = pathname === '/' ? '/index.html' : pathname;
                     res.end(fs.readFileSync(path.join(__dirname, 'src', pathname)));
@@ -54,36 +49,39 @@ gulp.task('server', function() {
 
 // build sass
 gulp.task('buildSass', function() {
-    return gulp.src('src/scss/*.scss')
-        .pipe(sass())
-        .pipe(autoprefixer({
-            browsers: ['last 2 versions', 'Android > 4.0']
-        }))
-        .pipe(gulp.dest('build/css'));
-})
-
-// build uglify
+        return gulp.src('src/scss/*.scss')
+            .pipe(sass())
+            .pipe(autoprefixer({
+                browsers: ['last 2 versions', 'Android > 4.0']
+            }))
+            .pipe(gulp.dest('build/css'));
+    })
+    // 监听watch
+gulp.task('buildWatch', function() {
+        return gulp.watch('build/scss/*.scss', ['buildSass']);
+    })
+    // build uglify
 gulp.task('uglify', function() {
-    gulp.src('src/js/**/*js')
+    return gulp.src('src/js/**/*js')
         .pipe(uglify())
         .pipe(gulp.dest('build/js'));
 })
 
 // build html
 gulp.task('html', function() {
-    gulp.src('src/**/*.html')
+    return gulp.src('src/**/*.html')
         .pipe(gulp.dest('build'));
 })
 
 // build swiper
 gulp.task('swiper', function() {
-    gulp.src('src/js/**/*css')
+    return gulp.src('src/js/**/*css')
         .pipe(gulp.dest('build/js'));
 })
 
 // build img
 gulp.task('img', function() {
-    gulp.src('src/img/*.{jpg,png}')
+    return gulp.src('src/img/*.{jpg,png}')
         .pipe(gulp.dest('build/img'));
 })
 
@@ -95,16 +93,13 @@ gulp.task('buildServer', function() {
             port: 8989,
             open: true,
             middleware: function(req, res, next) {
+                req.url = querystring.unescape(req.url);
                 var pathname = url.parse(req.url).pathname;
                 if (pathname === '/favicon.ico') {
                     return;
                 }
-                if (pathname === '/api/swiper') {
-                    res.end(JSON.stringify(data));
-                } else if (pathname === '/api/list') {
-                    res.end(JSON.stringify(list));
-                } else if (pathname === '/api/search') {
-                    res.end(JSON.stringify(search));
+                if (/\/api/g.test(pathname)) {
+                    res.end(JSON.stringify(data(req.url)));
                 } else {
                     pathname = pathname === '/' ? '/index.html' : pathname;
                     res.end(fs.readFileSync(path.join(__dirname, 'build', pathname)));
@@ -120,5 +115,5 @@ gulp.task('dev', function(cb) {
 
 // build
 gulp.task('build', function(cb) {
-    sequence('buildSass', 'uglify', 'img', 'swiper', 'html', 'buildServer', cb);
+    sequence('buildSass', 'buildWatch', 'uglify', 'img', 'swiper', 'html', 'buildServer', cb);
 })

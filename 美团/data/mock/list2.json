@@ -1,0 +1,1862 @@
+{
+    "stid": "055447599008331380242953088722349532348_anull",
+    "data": {
+        "count": 20,
+        "totalcount": 286,
+        "showTotalPriceButton": true,
+        "searchresult": [{
+                "historySaleCount": "9人消费",
+                "frontImg": "http://p0.meituan.net/216.0/tdchotel/1885e25549b88f25704df9cbd829386d112628.jpg",
+                "isCooperated": 1,
+                "styles": {
+                    "poiLastOrderTime": 2,
+                    "scoreIntro": 2,
+                    "poiSaleAndSpanTag": 2,
+                    "poiRecommendTag": 1
+                },
+                "poiAttrTagList": [],
+                "fodderInfo": [],
+                "showType": "hotel",
+                "addr": "阿拉善左旗巴彦浩特镇新世纪广场开元购物中心四楼",
+                "cityId": 150,
+                "poiid": 163163208,
+                "cooperationInfo": "",
+                "areaId": 0,
+                "areaName": "阿拉善左旗",
+                "cates": "20,20606,20426,20707,21019,79,20625,20607",
+                "hasGroup": false,
+                "zlSourceType": 1,
+                "sourceType": 1,
+                "campaignTagList": [],
+                "hourRoomSpan": 0,
+                "name": "开元商务宾馆",
+                "hasPackage": false,
+                "lat": 38.83889,
+                "lng": 105.702136,
+                "markNumbers": 4,
+                "dist": 919440.8125,
+                "flagshipFlag": false,
+                "lowestPrice": 79,
+                "dayRoomSpan": 1,
+                "hotelStar": "",
+                "hotelAppointmentExtType": 2,
+                "withoutAds": true,
+                "historyCouponCount": 9,
+                "posdescr": "阿拉善左旗",
+                "useTime": "",
+                "brandId": 0,
+                "avgScore": 0,
+                "shopId": 0,
+                "roomType": "",
+                "serviceDesc": [],
+                "poiSaleAndSpanTag": "9人消费",
+                "poiRecommendTag": "新店上线",
+                "poiLastOrderTime": "",
+                "scoreIntro": "暂无评分",
+                "originalPriceDesc": "",
+                "originalPrice": 79,
+                "showOriginalPrice": false,
+                "priceType": 1,
+                "taxFee": 0,
+                "specialTags": [],
+                "giftHouseTags": [
+                    "预约发票"
+                ],
+                "strollTags": [],
+                "commentsCountDesc": "4条评论",
+                "poiTagList": [],
+                "recommendInfo": {},
+                "ugcInfo": ""
+            },
+            {
+                "historySaleCount": "1000+人消费",
+                "frontImg": "http://p0.meituan.net/216.0/tdchotel/1edc87fa3175589b846ca798d9f4d8fc213478.jpg",
+                "isCooperated": 1,
+                "styles": {
+                    "poiLastOrderTime": 2,
+                    "scoreIntro": 1,
+                    "poiSaleAndSpanTag": 2,
+                    "poiRecommendTag": 2
+                },
+                "poiAttrTagList": [],
+                "fodderInfo": [{
+                        "boothId": 9003008,
+                        "description": "列表页银冠",
+                        "url": "http://p1.meituan.net/hotelnoah/7ff77d79-5924-4fc4-b99d-ba6f7505990f.png"
+                    },
+                    {
+                        "boothId": 1000,
+                        "description": "hos优选酒店搜索词",
+                        "url": "http://p1.meituan.net/hotelnoah/cedaceba-1cb4-4ab7-824d-b1701d49d82f.jpg"
+                    },
+                    {
+                        "boothId": 9003021,
+                        "description": "列表页高星酒店标签",
+                        "url": "http://p1.meituan.net/hotelnoah/3e038ac622f448fc8dc54bc8b7bd7b94.png"
+                    }
+                ],
+                "showType": "hotel",
+                "addr": "阿拉善左旗安德街图书馆对面",
+                "cityId": 150,
+                "poiid": 159749998,
+                "cooperationInfo": "",
+                "areaId": 0,
+                "areaName": "阿拉善左旗",
+                "cates": "20,20606,20426,20849,20995,80,20706,20707,20963,20625,20882",
+                "hasGroup": false,
+                "zlSourceType": 1,
+                "sourceType": 1,
+                "campaignTagList": [],
+                "hourRoomSpan": 0,
+                "name": "维也纳国际酒店(阿拉善店)",
+                "hasPackage": false,
+                "lat": 38.848112,
+                "lng": 105.722966,
+                "markNumbers": 137,
+                "dist": 917470.5625,
+                "flagshipFlag": false,
+                "lowestPrice": 238,
+                "dayRoomSpan": 1,
+                "hotelStar": "高档型",
+                "hotelAppointmentExtType": 2,
+                "withoutAds": true,
+                "historyCouponCount": 1385,
+                "posdescr": "阿拉善左旗",
+                "useTime": "",
+                "brandId": 29391,
+                "avgScore": 5,
+                "shopId": 0,
+                "roomType": "",
+                "serviceDesc": [],
+                "poiSaleAndSpanTag": "1000+人消费",
+                "poiRecommendTag": "高档型",
+                "poiLastOrderTime": "",
+                "scoreIntro": "5.0分 很好",
+                "originalPriceDesc": "",
+                "originalPrice": 270,
+                "showOriginalPrice": false,
+                "priceType": 1,
+                "taxFee": 0,
+                "specialTags": [],
+                "giftHouseTags": [],
+                "strollTags": [],
+                "priceExtInfo": "270减32",
+                "commentsCountDesc": "144条评论",
+                "poiTagList": [],
+                "recommendInfo": {},
+                "ugcInfo": ""
+            },
+            {
+                "historySaleCount": "500+人消费",
+                "frontImg": "http://p0.meituan.net/216.0/tdchotel/b617e1a1e6241c5d5224b630564526c25047210.jpg",
+                "isCooperated": 1,
+                "styles": {
+                    "poiLastOrderTime": 2,
+                    "scoreIntro": 1,
+                    "poiSaleAndSpanTag": 2,
+                    "poiRecommendTag": 2
+                },
+                "poiAttrTagList": [
+                    "休闲度假"
+                ],
+                "fodderInfo": [{
+                        "boothId": 9003008,
+                        "description": "列表页金冠",
+                        "url": "http://p1.meituan.net/hotelnoah/26134c42-7b2a-4ade-8226-75a0181fdaa4.png"
+                    },
+                    {
+                        "boothId": 1000,
+                        "description": "hos优选酒店搜索词",
+                        "url": "http://p1.meituan.net/hotelnoah/cedaceba-1cb4-4ab7-824d-b1701d49d82f.jpg"
+                    },
+                    {
+                        "boothId": 9003017,
+                        "description": "TOP人气热销0621余",
+                        "url": "http://p0.meituan.net/hotelnoah/58c8650d-6071-405c-836d-9816111decb2.png"
+                    },
+                    {
+                        "boothId": 9003021,
+                        "description": "列表页高星酒店标签",
+                        "url": "http://p1.meituan.net/hotelnoah/3e038ac622f448fc8dc54bc8b7bd7b94.png"
+                    }
+                ],
+                "showType": "hotel",
+                "addr": "额济纳旗环城南路与达来呼布南路交口西50米，电视台旁",
+                "cityId": 150,
+                "poiid": 79345762,
+                "cooperationInfo": "",
+                "areaId": 0,
+                "areaName": "额济纳旗",
+                "cates": "20,20606,20426,20849,80,20706,20707,20963,20625",
+                "hasGroup": false,
+                "zlSourceType": 1,
+                "sourceType": 1,
+                "campaignTagList": [],
+                "hourRoomSpan": 0,
+                "name": "太豪国际酒店",
+                "hasPackage": false,
+                "lat": 41.946295,
+                "lng": 101.058198,
+                "markNumbers": 23,
+                "dist": 1298448.625,
+                "flagshipFlag": true,
+                "lowestPrice": 280,
+                "dayRoomSpan": 1,
+                "hotelStar": "高档型",
+                "hotelAppointmentExtType": 2,
+                "withoutAds": true,
+                "historyCouponCount": 810,
+                "posdescr": "额济纳旗",
+                "useTime": "",
+                "brandId": 0,
+                "avgScore": 4.6,
+                "shopId": 0,
+                "roomType": "",
+                "serviceDesc": [],
+                "poiSaleAndSpanTag": "500+人消费",
+                "poiRecommendTag": "高档型",
+                "poiLastOrderTime": "1小时前有人预订",
+                "scoreIntro": "4.6分 很好",
+                "originalPriceDesc": "",
+                "originalPrice": 280,
+                "showOriginalPrice": false,
+                "priceType": 1,
+                "taxFee": 0,
+                "specialTags": [],
+                "giftHouseTags": [
+                    "预约发票"
+                ],
+                "strollTags": [],
+                "commentsCountDesc": "38条评论",
+                "poiTagList": [],
+                "recommendInfo": {},
+                "ugcInfo": ""
+            },
+            {
+                "historySaleCount": "1000+人消费",
+                "frontImg": "http://p1.meituan.net/216.0/tdchotel/e4ae16815ff7c646ea40ced7f2947cf3108799.jpg",
+                "isCooperated": 1,
+                "styles": {
+                    "poiLastOrderTime": 2,
+                    "scoreIntro": 1,
+                    "poiSaleAndSpanTag": 2,
+                    "poiRecommendTag": 2
+                },
+                "poiAttrTagList": [],
+                "fodderInfo": [{
+                        "boothId": 1000,
+                        "description": "hos优选酒店搜索词",
+                        "url": "http://p1.meituan.net/hotelnoah/cedaceba-1cb4-4ab7-824d-b1701d49d82f.jpg"
+                    },
+                    {
+                        "boothId": 9003017,
+                        "description": "TOP精选超值酒店0614胡",
+                        "url": "http://p1.meituan.net/hotelnoah/6e987648-f44d-405e-bb32-0d27c94579f4.png"
+                    }
+                ],
+                "showType": "hotel",
+                "addr": "阿拉善左旗吉兰泰东路新四中斜对面",
+                "cityId": 150,
+                "poiid": 118172320,
+                "cooperationInfo": "",
+                "areaId": 0,
+                "areaName": "阿拉善左旗",
+                "cates": "20,20606,20426,20995,20769,20707,21019,79,20625,20607",
+                "hasGroup": false,
+                "zlSourceType": 1,
+                "sourceType": 1,
+                "campaignTagList": [],
+                "hourRoomSpan": 0,
+                "name": "格林豪泰商务酒店(阿拉善盟左旗新四中店)",
+                "hasPackage": false,
+                "lat": 38.844306,
+                "lng": 105.724522,
+                "markNumbers": 152,
+                "dist": 917420.3125,
+                "flagshipFlag": false,
+                "lowestPrice": 159,
+                "dayRoomSpan": 1,
+                "hotelStar": "经济型",
+                "hotelAppointmentExtType": 2,
+                "withoutAds": true,
+                "adsInfo": {
+                    "override": 0,
+                    "adType": 3,
+                    "adFlagUrl": "http://p1.meituan.net/movie/c0e2f6e0b3f6e719c62c9935001db8ce546.png",
+                    "impressionUrl": "https://mlog.dianping.com/api/cpv/action?ad_cj=DxJU2l-RvgqaFmwD5mIetiL6REw9dDlFSrcTFgrpcwWJO6luFeEdz_1LFUiHEV-mbyjTUbt-3ogYBPH3msGOiR_z90bePVE7nC9OovdoIneZiMWyzfd7sbpMhQgWtlXevaF3SuxptTlJNfiAic9h3EYdGtl6Ebv_GMXui_Ppyz7Qil1FLhb2BwPKKO3L5tGv7SS1aNaA-88ej_45jnqepc0CC8WxTmDHLwyM1EHOYlA5MGx1UHTbs6qUHO9-uI0H_WtaFsKDUiyQUIP-NSc-bW1bGRKwKvPVRUfhuhJSU_8QokDEknSt3A46J6OFtsYObskQfLrcD9aBoJ4&sver=2&ad_v=1&ad_ci=DxJU2l-DYrbK8JbxvNMYilQ0E3XBhbNPQfcrIbQRKWztoJQE12ZO9ZSKELrGn7qLR0IeW2FKCEZSJGFObii-MZL2ksRvVuAn8A&act=3",
+                    "clickUrl": "https://mlog.dianping.com/api/cpv/billing?ad_cj=DxJU2l-RvgqaFmwD5mIetiL6REw9dDlFSrcTFgrpcwWJO6luFeEdz_1LFUiHEV-mbyjTUbt-3ogYBPH3msGOiR_z90bePVE7nC9OovdoIneZiMWyzfd7sbpMhQgWtlXevaF3SuxptTlJNfiAic9h3EYdGtl6Ebv_GMXui_Ppyz7Qil1FLhb2BwPKKO3L5tGv7SS1aNaA-88ej_45jnqepc0CC8WxTmDHLwyM1EHOYlA5MGx1UHTbs6qUHO9-uI0H_WtaFsKDUiyQUIP-NSc-bW1bGRKwKvPVRUfhuhJSU_8QokDEknSt3A46J6OFtsYObskQfLrcD9aBoJ4&sver=2&ad_v=1&ad_ci=DxJU2l-DYrbK8JbxvNMYilQ0E3XBhbNPQfcrIbQRKWztoJQE12ZO9ZSKELrGn7qLR0IeW2FKCEZSJGFObii-MZL2ksRvVuAn8A&act=2"
+                },
+                "historyCouponCount": 3477,
+                "posdescr": "阿拉善左旗",
+                "useTime": "",
+                "brandId": 23838,
+                "avgScore": 4.7,
+                "shopId": 0,
+                "roomType": "",
+                "serviceDesc": [],
+                "poiSaleAndSpanTag": "1000+人消费",
+                "poiRecommendTag": "经济型",
+                "poiLastOrderTime": "",
+                "scoreIntro": "4.7分 很好",
+                "originalPriceDesc": "",
+                "originalPrice": 159,
+                "showOriginalPrice": false,
+                "priceType": 1,
+                "taxFee": 0,
+                "specialTags": [],
+                "giftHouseTags": [],
+                "strollTags": [],
+                "commentsCountDesc": "157条评论",
+                "poiTagList": [],
+                "recommendInfo": {},
+                "ugcInfo": ""
+            },
+            {
+                "historySaleCount": "200+人消费",
+                "frontImg": "http://p0.meituan.net/216.0/tdchotel/332c08d57488dd46bac5d176e19eaca1143820.jpg",
+                "isCooperated": 1,
+                "styles": {
+                    "poiLastOrderTime": 2,
+                    "scoreIntro": 1,
+                    "poiSaleAndSpanTag": 2,
+                    "poiRecommendTag": 2
+                },
+                "poiAttrTagList": [
+                    "亲子酒店"
+                ],
+                "fodderInfo": [{
+                    "boothId": 9003021,
+                    "description": "列表页高星酒店标签",
+                    "url": "http://p1.meituan.net/hotelnoah/3e038ac622f448fc8dc54bc8b7bd7b94.png"
+                }],
+                "showType": "hotel",
+                "addr": "额济纳旗航天路（喇嘛庙对面）",
+                "cityId": 150,
+                "poiid": 163018784,
+                "cooperationInfo": "",
+                "areaId": 0,
+                "areaName": "温州商城",
+                "cates": "20,20606,20426,20849,80,20706,20707,20963,20625",
+                "hasGroup": false,
+                "zlSourceType": 1,
+                "sourceType": 1,
+                "campaignTagList": [],
+                "hourRoomSpan": 0,
+                "name": "额济纳旗维丽斯大酒店",
+                "hasPackage": false,
+                "lat": 41.958602,
+                "lng": 101.051684,
+                "markNumbers": 18,
+                "dist": 1299099.625,
+                "flagshipFlag": false,
+                "lowestPrice": 168,
+                "dayRoomSpan": 1,
+                "hotelStar": "高档型",
+                "hotelAppointmentExtType": 2,
+                "withoutAds": true,
+                "historyCouponCount": 203,
+                "posdescr": "温州商城，额济纳旗蒙医医院附近",
+                "useTime": "",
+                "brandId": 0,
+                "avgScore": 4.6,
+                "shopId": 0,
+                "roomType": "",
+                "serviceDesc": [],
+                "poiSaleAndSpanTag": "200+人消费",
+                "poiRecommendTag": "高档型",
+                "poiLastOrderTime": "",
+                "scoreIntro": "4.6分 很好",
+                "originalPriceDesc": "",
+                "originalPrice": 168,
+                "showOriginalPrice": false,
+                "priceType": 1,
+                "taxFee": 0,
+                "specialTags": [],
+                "giftHouseTags": [],
+                "strollTags": [],
+                "commentsCountDesc": "18条评论",
+                "poiTagList": [],
+                "recommendInfo": {},
+                "ugcInfo": ""
+            },
+            {
+                "historySaleCount": "1000+人消费",
+                "frontImg": "http://p0.meituan.net/216.0/tdchotel/68821828396c3e4d95ab08fb4a06eeb2107009.jpg",
+                "isCooperated": 1,
+                "styles": {
+                    "poiLastOrderTime": 2,
+                    "scoreIntro": 1,
+                    "poiSaleAndSpanTag": 2,
+                    "poiRecommendTag": 2
+                },
+                "poiAttrTagList": [],
+                "fodderInfo": [{
+                        "boothId": 9003008,
+                        "description": "列表页金冠",
+                        "url": "http://p1.meituan.net/hotelnoah/26134c42-7b2a-4ade-8226-75a0181fdaa4.png"
+                    },
+                    {
+                        "boothId": 1000,
+                        "description": "hos优选酒店搜索词",
+                        "url": "http://p1.meituan.net/hotelnoah/cedaceba-1cb4-4ab7-824d-b1701d49d82f.jpg"
+                    }
+                ],
+                "showType": "hotel",
+                "addr": "阿拉善左旗和硕特路125号",
+                "cityId": 150,
+                "poiid": 5127283,
+                "cooperationInfo": "",
+                "areaId": 0,
+                "areaName": "南环街道",
+                "cates": "20,20606,20426,20769,20707,21019,79,20625,20607",
+                "hasGroup": false,
+                "zlSourceType": 1,
+                "sourceType": 1,
+                "campaignTagList": [],
+                "hourRoomSpan": 0,
+                "name": "友谊商务宾馆",
+                "hasPackage": false,
+                "lat": 38.83471,
+                "lng": 105.70347,
+                "markNumbers": 259,
+                "dist": 919417.4375,
+                "flagshipFlag": false,
+                "lowestPrice": 88,
+                "dayRoomSpan": 1,
+                "hotelStar": "经济型",
+                "hotelAppointmentExtType": 2,
+                "withoutAds": true,
+                "historyCouponCount": 3262,
+                "posdescr": "南环街道",
+                "useTime": "",
+                "brandId": 0,
+                "avgScore": 4.9,
+                "shopId": 0,
+                "roomType": "",
+                "serviceDesc": [],
+                "poiSaleAndSpanTag": "1000+人消费",
+                "poiRecommendTag": "经济型",
+                "poiLastOrderTime": "",
+                "scoreIntro": "4.9分 很好",
+                "originalPriceDesc": "",
+                "originalPrice": 88,
+                "showOriginalPrice": false,
+                "priceType": 1,
+                "taxFee": 0,
+                "specialTags": [],
+                "giftHouseTags": [],
+                "strollTags": [],
+                "commentsCountDesc": "260条评论",
+                "poiTagList": [],
+                "recommendInfo": {},
+                "ugcInfo": ""
+            },
+            {
+                "historySaleCount": "1000+人消费",
+                "frontImg": "http://p1.meituan.net/216.0/tdchotel/4073418539061accca84c551d994233f963780.jpg",
+                "isCooperated": 1,
+                "styles": {
+                    "poiLastOrderTime": 2,
+                    "scoreIntro": 1,
+                    "poiSaleAndSpanTag": 2,
+                    "poiRecommendTag": 2
+                },
+                "poiAttrTagList": [],
+                "fodderInfo": [{
+                        "boothId": 9003008,
+                        "description": "列表页彩冠",
+                        "url": "http://p1.meituan.net/hotelnoah/8a45c2b9-b2f8-4515-8864-8492bfabd44c.png"
+                    },
+                    {
+                        "boothId": 1000,
+                        "description": "hos优选酒店搜索词",
+                        "url": "http://p1.meituan.net/hotelnoah/cedaceba-1cb4-4ab7-824d-b1701d49d82f.jpg"
+                    },
+                    {
+                        "boothId": 9003005,
+                        "description": "TOP会员商家",
+                        "url": "http://p1.meituan.net/hotelnoah/a6b0732b-9ebd-48f9-8d08-a0461298b8e2.png"
+                    },
+                    {
+                        "boothId": 9003017,
+                        "description": "TOP会员商家",
+                        "url": "http://p1.meituan.net/hotelnoah/f29da0f3-0ff0-4cc5-8fbe-e59da797aa40.png"
+                    }
+                ],
+                "showType": "hotel",
+                "addr": "阿拉善左旗环城南路蒙古族完全中学西侧斜对面",
+                "cityId": 150,
+                "poiid": 161065906,
+                "cooperationInfo": "",
+                "areaId": 0,
+                "areaName": "新华街",
+                "cates": "20,20606,20426,20769,20707,21019,79,20625,20607",
+                "hasGroup": false,
+                "zlSourceType": 1,
+                "sourceType": 1,
+                "campaignTagList": [],
+                "hourRoomSpan": 0,
+                "name": "途家宾馆",
+                "hasPackage": false,
+                "lat": 38.826488,
+                "lng": 105.681221,
+                "markNumbers": 128,
+                "dist": 921487.5,
+                "flagshipFlag": false,
+                "lowestPrice": 108,
+                "dayRoomSpan": 1,
+                "hotelStar": "经济型",
+                "hotelAppointmentExtType": 2,
+                "withoutAds": true,
+                "historyCouponCount": 1979,
+                "posdescr": "新华街",
+                "useTime": "",
+                "brandId": 0,
+                "avgScore": 4.9,
+                "shopId": 0,
+                "roomType": "",
+                "serviceDesc": [],
+                "poiSaleAndSpanTag": "1000+人消费",
+                "poiRecommendTag": "经济型",
+                "poiLastOrderTime": "1小时前有人预订",
+                "scoreIntro": "4.9分 很好",
+                "originalPriceDesc": "",
+                "originalPrice": 108,
+                "showOriginalPrice": false,
+                "priceType": 1,
+                "taxFee": 0,
+                "specialTags": [],
+                "giftHouseTags": [],
+                "strollTags": [],
+                "commentsCountDesc": "128条评论",
+                "poiTagList": [],
+                "recommendInfo": {},
+                "ugcInfo": ""
+            },
+            {
+                "historySaleCount": "1000+人消费",
+                "frontImg": "http://p0.meituan.net/216.0/tdchotel/12d8832bd046f41d9fac4a7d3c0be5ff104380.jpg",
+                "isCooperated": 1,
+                "styles": {
+                    "poiLastOrderTime": 2,
+                    "scoreIntro": 1,
+                    "poiSaleAndSpanTag": 2,
+                    "poiRecommendTag": 2
+                },
+                "poiAttrTagList": [],
+                "fodderInfo": [{
+                    "boothId": 1000,
+                    "description": "hos优选酒店搜索词",
+                    "url": "http://p1.meituan.net/hotelnoah/cedaceba-1cb4-4ab7-824d-b1701d49d82f.jpg"
+                }],
+                "showType": "hotel",
+                "addr": "阿拉善左旗阿拉善新城东城区额鲁特东路南侧",
+                "cityId": 150,
+                "poiid": 4627113,
+                "cooperationInfo": "",
+                "areaId": 0,
+                "areaName": "南环街道",
+                "cates": "20,20606,20426,20769,20853,20707,79,20625",
+                "hasGroup": false,
+                "zlSourceType": 1,
+                "sourceType": 1,
+                "campaignTagList": [],
+                "hourRoomSpan": 0,
+                "name": "中凯商务酒店",
+                "hasPackage": false,
+                "lat": 38.847773,
+                "lng": 105.731466,
+                "markNumbers": 488,
+                "dist": 916755,
+                "flagshipFlag": false,
+                "lowestPrice": 98,
+                "dayRoomSpan": 1,
+                "hotelStar": "舒适型",
+                "hotelAppointmentExtType": 2,
+                "withoutAds": true,
+                "historyCouponCount": 3244,
+                "posdescr": "南环街道",
+                "useTime": "",
+                "brandId": 0,
+                "avgScore": 4.8,
+                "shopId": 0,
+                "roomType": "",
+                "serviceDesc": [],
+                "poiSaleAndSpanTag": "1000+人消费",
+                "poiRecommendTag": "舒适型",
+                "poiLastOrderTime": "24分钟前有人预订",
+                "scoreIntro": "4.8分 很好",
+                "originalPriceDesc": "",
+                "originalPrice": 98,
+                "showOriginalPrice": false,
+                "priceType": 1,
+                "taxFee": 0,
+                "specialTags": [],
+                "giftHouseTags": [],
+                "strollTags": [],
+                "commentsCountDesc": "489条评论",
+                "poiTagList": [],
+                "recommendInfo": {},
+                "ugcInfo": ""
+            },
+            {
+                "historySaleCount": "1000+人消费",
+                "frontImg": "http://p0.meituan.net/216.0/tdchotel/1beaa5a71d1178017c71a2e57b34a684433367.jpg",
+                "isCooperated": 1,
+                "styles": {
+                    "poiLastOrderTime": 2,
+                    "scoreIntro": 1,
+                    "poiSaleAndSpanTag": 2,
+                    "poiRecommendTag": 2
+                },
+                "poiAttrTagList": [],
+                "fodderInfo": [{
+                    "boothId": 1000,
+                    "description": "hos优选酒店搜索词",
+                    "url": "http://p1.meituan.net/hotelnoah/cedaceba-1cb4-4ab7-824d-b1701d49d82f.jpg"
+                }],
+                "showType": "hotel",
+                "addr": "额济纳旗胡杨西街与达来库布路北路交叉口东200米路西（老供电所对面，近胡杨街）",
+                "cityId": 150,
+                "poiid": 90330690,
+                "cooperationInfo": "",
+                "areaId": 0,
+                "areaName": "温州商城",
+                "cates": "20,20606,20426,20769,20707,21019,79,20625,20607",
+                "hasGroup": false,
+                "zlSourceType": 1,
+                "sourceType": 1,
+                "campaignTagList": [],
+                "hourRoomSpan": 0,
+                "name": "翡翠商务酒店",
+                "hasPackage": false,
+                "lat": 41.962513,
+                "lng": 101.061732,
+                "markNumbers": 94,
+                "dist": 1298307.25,
+                "flagshipFlag": false,
+                "lowestPrice": 108,
+                "dayRoomSpan": 1,
+                "hotelStar": "经济型",
+                "hotelAppointmentExtType": 2,
+                "withoutAds": true,
+                "historyCouponCount": 1787,
+                "posdescr": "温州商城，额济纳旗蒙医医院附近",
+                "useTime": "",
+                "brandId": 0,
+                "avgScore": 4.9,
+                "shopId": 0,
+                "roomType": "",
+                "serviceDesc": [],
+                "poiSaleAndSpanTag": "1000+人消费",
+                "poiRecommendTag": "经济型",
+                "poiLastOrderTime": "",
+                "scoreIntro": "4.9分 很好",
+                "originalPriceDesc": "",
+                "originalPrice": 108,
+                "showOriginalPrice": false,
+                "priceType": 1,
+                "taxFee": 0,
+                "specialTags": [],
+                "giftHouseTags": [],
+                "strollTags": [],
+                "commentsCountDesc": "101条评论",
+                "poiTagList": [],
+                "recommendInfo": {},
+                "ugcInfo": ""
+            },
+            {
+                "historySaleCount": "1000+人消费",
+                "frontImg": "http://p1.meituan.net/216.0/tdchotel/f2d9934afea3e2c99adc6eef7c153d8f147093.jpg",
+                "isCooperated": 1,
+                "styles": {
+                    "poiLastOrderTime": 2,
+                    "scoreIntro": 1,
+                    "poiSaleAndSpanTag": 2,
+                    "poiRecommendTag": 2
+                },
+                "poiAttrTagList": [
+                    "休闲度假",
+                    "会议酒店"
+                ],
+                "fodderInfo": [{
+                        "boothId": 1000,
+                        "description": "hos优选酒店搜索词",
+                        "url": "http://p1.meituan.net/hotelnoah/cedaceba-1cb4-4ab7-824d-b1701d49d82f.jpg"
+                    },
+                    {
+                        "boothId": 9003017,
+                        "description": "TOP明星酒店0628余",
+                        "url": "http://p0.meituan.net/hotelnoah/7b506a3a-acae-4b0b-bcd9-5e17aa06d4e3.png"
+                    },
+                    {
+                        "boothId": 9003021,
+                        "description": "列表页高星酒店标签",
+                        "url": "http://p1.meituan.net/hotelnoah/3e038ac622f448fc8dc54bc8b7bd7b94.png"
+                    }
+                ],
+                "showType": "hotel",
+                "addr": "阿拉善左旗和硕特路42号（与古兰泰西路交汇处西南角）",
+                "cityId": 150,
+                "poiid": 4014930,
+                "cooperationInfo": "",
+                "areaId": 0,
+                "areaName": "南环街道",
+                "cates": "20,20606,20426,20769,80,20706,20707,20963,20625,20609",
+                "hasGroup": false,
+                "zlSourceType": 1,
+                "sourceType": 1,
+                "campaignTagList": [],
+                "hourRoomSpan": 0,
+                "name": "阿拉善宾馆",
+                "hasPackage": false,
+                "lat": 38.841288,
+                "lng": 105.700867,
+                "markNumbers": 166,
+                "dist": 919496.6875,
+                "flagshipFlag": true,
+                "lowestPrice": 230,
+                "dayRoomSpan": 1,
+                "hotelStar": "四星级",
+                "hotelAppointmentExtType": 2,
+                "withoutAds": true,
+                "historyCouponCount": 1843,
+                "posdescr": "南环街道",
+                "useTime": "",
+                "brandId": 0,
+                "avgScore": 4.6,
+                "shopId": 0,
+                "roomType": "",
+                "serviceDesc": [],
+                "poiSaleAndSpanTag": "1000+人消费",
+                "poiRecommendTag": "四星级",
+                "poiLastOrderTime": "",
+                "scoreIntro": "4.6分 很好",
+                "originalPriceDesc": "",
+                "originalPrice": 230,
+                "showOriginalPrice": false,
+                "priceType": 1,
+                "taxFee": 0,
+                "specialTags": [],
+                "giftHouseTags": [],
+                "strollTags": [],
+                "commentsCountDesc": "180条评论",
+                "poiTagList": [],
+                "recommendInfo": {},
+                "ugcInfo": ""
+            },
+            {
+                "historySaleCount": "500+人消费",
+                "frontImg": "http://p0.meituan.net/216.0/dnaimgdark/5ac360fe4b06f670c2cf7750b448f5dd5819329.jpg",
+                "isCooperated": 1,
+                "styles": {
+                    "poiLastOrderTime": 2,
+                    "scoreIntro": 1,
+                    "poiSaleAndSpanTag": 2,
+                    "poiRecommendTag": 2
+                },
+                "poiAttrTagList": [
+                    "休闲度假",
+                    "商务出行"
+                ],
+                "fodderInfo": [{
+                        "boothId": 1000,
+                        "description": "商家营销连住特惠",
+                        "url": "http://p1.meituan.net/hotelnoah/55a3389c-9b70-4770-92ed-7cf6cc11610b.jpg"
+                    },
+                    {
+                        "boothId": 9003021,
+                        "description": "列表页高星酒店标签",
+                        "url": "http://p1.meituan.net/hotelnoah/3e038ac622f448fc8dc54bc8b7bd7b94.png"
+                    }
+                ],
+                "showType": "hotel",
+                "addr": "阿拉善左旗土尔扈特北路和额鲁特西路交叉口",
+                "cityId": 150,
+                "poiid": 4861569,
+                "cooperationInfo": "",
+                "areaId": 0,
+                "areaName": "阿拉善左旗",
+                "cates": "20,20606,20426,20849,80,20706,20707,20963,20625",
+                "hasGroup": false,
+                "zlSourceType": 1,
+                "sourceType": 1,
+                "campaignTagList": [],
+                "hourRoomSpan": 0,
+                "name": "阿拉善左旗锦芸商务宾馆",
+                "hasPackage": false,
+                "lat": 38.849027,
+                "lng": 105.708823,
+                "markNumbers": 57,
+                "dist": 918654.625,
+                "flagshipFlag": false,
+                "lowestPrice": 128,
+                "dayRoomSpan": 1,
+                "hotelStar": "高档型",
+                "hotelAppointmentExtType": 2,
+                "withoutAds": true,
+                "historyCouponCount": 640,
+                "posdescr": "阿拉善左旗",
+                "useTime": "",
+                "brandId": 0,
+                "avgScore": 4.7,
+                "shopId": 0,
+                "roomType": "",
+                "serviceDesc": [],
+                "poiSaleAndSpanTag": "500+人消费",
+                "poiRecommendTag": "高档型",
+                "poiLastOrderTime": "",
+                "scoreIntro": "4.7分 很好",
+                "originalPriceDesc": "",
+                "originalPrice": 128,
+                "showOriginalPrice": false,
+                "priceType": 1,
+                "taxFee": 0,
+                "specialTags": [],
+                "giftHouseTags": [],
+                "strollTags": [],
+                "commentsCountDesc": "60条评论",
+                "poiTagList": [],
+                "recommendInfo": {},
+                "ugcInfo": ""
+            },
+            {
+                "historySaleCount": "1000+人消费",
+                "frontImg": "http://p0.meituan.net/216.0/tdchotel/2b1d8a028796e05c7b93b01998872069245369.jpg",
+                "isCooperated": 1,
+                "styles": {
+                    "poiLastOrderTime": 2,
+                    "scoreIntro": 1,
+                    "poiSaleAndSpanTag": 2,
+                    "poiRecommendTag": 2
+                },
+                "poiAttrTagList": [],
+                "fodderInfo": [{
+                    "boothId": 1000,
+                    "description": "hos优选酒店搜索词",
+                    "url": "http://p1.meituan.net/hotelnoah/cedaceba-1cb4-4ab7-824d-b1701d49d82f.jpg"
+                }],
+                "showType": "hotel",
+                "addr": "阿拉善左旗土尔扈特南路与环城南路交口北行200米路西（铁厂转弯红绿灯北）",
+                "cityId": 150,
+                "poiid": 5852906,
+                "cooperationInfo": "",
+                "areaId": 0,
+                "areaName": "南环街道",
+                "cates": "20,20606,20426,20769,20707,21019,79,20625,20607",
+                "hasGroup": false,
+                "zlSourceType": 1,
+                "sourceType": 1,
+                "campaignTagList": [],
+                "hourRoomSpan": 0,
+                "name": "金龙港宾馆",
+                "hasPackage": false,
+                "lat": 38.830557,
+                "lng": 105.709457,
+                "markNumbers": 230,
+                "dist": 918997.625,
+                "flagshipFlag": false,
+                "lowestPrice": 68,
+                "dayRoomSpan": 1,
+                "hotelStar": "",
+                "hotelAppointmentExtType": 2,
+                "withoutAds": true,
+                "historyCouponCount": 2540,
+                "posdescr": "南环街道",
+                "useTime": "",
+                "brandId": 0,
+                "avgScore": 4.8,
+                "shopId": 0,
+                "roomType": "",
+                "serviceDesc": [],
+                "poiSaleAndSpanTag": "1000+人消费",
+                "poiRecommendTag": "",
+                "poiLastOrderTime": "",
+                "scoreIntro": "4.8分 很好",
+                "originalPriceDesc": "",
+                "originalPrice": 68,
+                "showOriginalPrice": false,
+                "priceType": 1,
+                "taxFee": 0,
+                "specialTags": [],
+                "giftHouseTags": [],
+                "strollTags": [],
+                "commentsCountDesc": "233条评论",
+                "poiTagList": [],
+                "recommendInfo": {},
+                "ugcInfo": ""
+            },
+            {
+                "historySaleCount": "1000+人消费",
+                "frontImg": "http://p0.meituan.net/216.0/tdchotel/3c6d17d06b048e0513aabfdf27908f71187969.jpg",
+                "isCooperated": 1,
+                "styles": {
+                    "poiLastOrderTime": 2,
+                    "scoreIntro": 1,
+                    "poiSaleAndSpanTag": 2,
+                    "poiRecommendTag": 2
+                },
+                "poiAttrTagList": [],
+                "fodderInfo": [{
+                        "boothId": 9003008,
+                        "description": "列表页彩冠",
+                        "url": "http://p1.meituan.net/hotelnoah/8a45c2b9-b2f8-4515-8864-8492bfabd44c.png"
+                    },
+                    {
+                        "boothId": 1000,
+                        "description": "hos优选酒店搜索词",
+                        "url": "http://p1.meituan.net/hotelnoah/cedaceba-1cb4-4ab7-824d-b1701d49d82f.jpg"
+                    }
+                ],
+                "showType": "hotel",
+                "addr": "阿拉善左旗和硕特路新华影楼旁",
+                "cityId": 150,
+                "poiid": 6034714,
+                "cooperationInfo": "",
+                "areaId": 0,
+                "areaName": "阿拉善左旗",
+                "cates": "20,20606,20426,20769,20707,21019,79,20625,20607",
+                "hasGroup": false,
+                "zlSourceType": 1,
+                "sourceType": 1,
+                "campaignTagList": [],
+                "hourRoomSpan": 0,
+                "name": "云品时尚酒店",
+                "hasPackage": false,
+                "lat": 38.847184,
+                "lng": 105.701856,
+                "markNumbers": 197,
+                "dist": 919286.75,
+                "flagshipFlag": false,
+                "lowestPrice": 72,
+                "dayRoomSpan": 1,
+                "hotelStar": "",
+                "hotelAppointmentExtType": 2,
+                "withoutAds": true,
+                "historyCouponCount": 2119,
+                "posdescr": "阿拉善左旗",
+                "useTime": "",
+                "brandId": 0,
+                "avgScore": 4.8,
+                "shopId": 0,
+                "roomType": "",
+                "serviceDesc": [],
+                "poiSaleAndSpanTag": "1000+人消费",
+                "poiRecommendTag": "",
+                "poiLastOrderTime": "",
+                "scoreIntro": "4.8分 很好",
+                "originalPriceDesc": "",
+                "originalPrice": 72,
+                "showOriginalPrice": false,
+                "priceType": 1,
+                "taxFee": 0,
+                "specialTags": [],
+                "giftHouseTags": [],
+                "strollTags": [],
+                "commentsCountDesc": "200条评论",
+                "poiTagList": [],
+                "recommendInfo": {},
+                "ugcInfo": ""
+            },
+            {
+                "historySaleCount": "200+人消费",
+                "frontImg": "http://p1.meituan.net/216.0/tdchotel/6d505d2dfec48c2ffce80ec11779d6fd754256.jpg",
+                "isCooperated": 1,
+                "styles": {
+                    "poiLastOrderTime": 2,
+                    "scoreIntro": 1,
+                    "poiSaleAndSpanTag": 2,
+                    "poiRecommendTag": 2
+                },
+                "poiAttrTagList": [],
+                "fodderInfo": [{
+                    "boothId": 1000,
+                    "description": "QUERY本地优选",
+                    "url": "http://p0.meituan.net/hotelnoah/0f4ffede-f097-4587-8853-d1c525cbb013.png"
+                }],
+                "showType": "hotel",
+                "addr": "额济纳旗马鬃山路额济纳旗人民医院北200米路西",
+                "cityId": 150,
+                "poiid": 41748353,
+                "cooperationInfo": "",
+                "areaId": 0,
+                "areaName": "额济纳客运站",
+                "cates": "20,20606,20426,20769,20707,20780,21019,79,20625,20607",
+                "hasGroup": false,
+                "zlSourceType": 1,
+                "sourceType": 1,
+                "campaignTagList": [],
+                "hourRoomSpan": 0,
+                "name": "金胡杨青年旅舍",
+                "hasPackage": false,
+                "lat": 41.95554,
+                "lng": 101.047077,
+                "markNumbers": 29,
+                "dist": 1299451.625,
+                "flagshipFlag": false,
+                "lowestPrice": 36,
+                "dayRoomSpan": 1,
+                "hotelStar": "经济型",
+                "hotelAppointmentExtType": 2,
+                "withoutAds": true,
+                "historyCouponCount": 436,
+                "posdescr": "额济纳客运站",
+                "useTime": "",
+                "brandId": 0,
+                "avgScore": 4.8,
+                "shopId": 0,
+                "roomType": "",
+                "serviceDesc": [],
+                "poiSaleAndSpanTag": "200+人消费",
+                "poiRecommendTag": "经济型",
+                "poiLastOrderTime": "1小时前有人预订",
+                "scoreIntro": "4.8分 很好",
+                "originalPriceDesc": "",
+                "originalPrice": 36,
+                "showOriginalPrice": false,
+                "priceType": 1,
+                "taxFee": 0,
+                "specialTags": [],
+                "giftHouseTags": [],
+                "strollTags": [],
+                "commentsCountDesc": "32条评论",
+                "poiTagList": [],
+                "recommendInfo": {},
+                "ugcInfo": ""
+            },
+            {
+                "historySaleCount": "15人消费",
+                "frontImg": "http://p1.meituan.net/216.0/tdchotel/647522458012cd74dc9021da26c1ae9e93955.jpg",
+                "isCooperated": 1,
+                "styles": {
+                    "poiLastOrderTime": 2,
+                    "scoreIntro": 1,
+                    "poiSaleAndSpanTag": 2,
+                    "poiRecommendTag": 2
+                },
+                "poiAttrTagList": [],
+                "fodderInfo": [{
+                    "boothId": 1000,
+                    "description": "QUERY本地优选",
+                    "url": "http://p0.meituan.net/hotelnoah/0f4ffede-f097-4587-8853-d1c525cbb013.png"
+                }],
+                "showType": "hotel",
+                "addr": "额济纳旗苏古淖尔路金桥超市斜对面",
+                "cityId": 150,
+                "poiid": 165879098,
+                "cooperationInfo": "",
+                "areaId": 0,
+                "areaName": "温州商城",
+                "cates": "20,20606,20426,20707,21019,79,20625,20607",
+                "hasGroup": false,
+                "zlSourceType": 1,
+                "sourceType": 1,
+                "campaignTagList": [],
+                "hourRoomSpan": 0,
+                "name": "金江宾馆",
+                "hasPackage": false,
+                "lat": 41.96433,
+                "lng": 101.070223,
+                "markNumbers": 3,
+                "dist": 1297624,
+                "flagshipFlag": false,
+                "lowestPrice": 68,
+                "dayRoomSpan": 1,
+                "hotelStar": "",
+                "hotelAppointmentExtType": 2,
+                "withoutAds": true,
+                "historyCouponCount": 15,
+                "posdescr": "温州商城，额济纳旗蒙医医院附近",
+                "useTime": "",
+                "brandId": 0,
+                "avgScore": 4.8,
+                "shopId": 0,
+                "roomType": "",
+                "serviceDesc": [],
+                "poiSaleAndSpanTag": "15人消费",
+                "poiRecommendTag": "",
+                "poiLastOrderTime": "",
+                "scoreIntro": "4.8分 很好",
+                "originalPriceDesc": "",
+                "originalPrice": 68,
+                "showOriginalPrice": false,
+                "priceType": 1,
+                "taxFee": 0,
+                "specialTags": [],
+                "giftHouseTags": [],
+                "strollTags": [],
+                "commentsCountDesc": "3条评论",
+                "poiTagList": [],
+                "recommendInfo": {},
+                "ugcInfo": ""
+            },
+            {
+                "historySaleCount": "46人消费",
+                "frontImg": "http://p1.meituan.net/216.0/tdchotel/c6088e85290350ae55be76a28e8082701975473.jpg",
+                "isCooperated": 1,
+                "styles": {
+                    "poiLastOrderTime": 2,
+                    "scoreIntro": 1,
+                    "poiSaleAndSpanTag": 2,
+                    "poiRecommendTag": 2
+                },
+                "poiAttrTagList": [],
+                "fodderInfo": [{
+                    "boothId": 1000,
+                    "description": "QUERY口碑推荐",
+                    "url": "http://p0.meituan.net/hotelnoah/b209c59a-32fa-4968-b0e9-86bc1505faea.png"
+                }],
+                "showType": "hotel",
+                "addr": "阿拉善左旗新华街道百悦蓝廷商业街9-08",
+                "cityId": 150,
+                "poiid": 163008893,
+                "cooperationInfo": "",
+                "areaId": 0,
+                "areaName": "新华街",
+                "cates": "20,20606,20426,20769,20707,20780,21019,20963,79,20625,20607",
+                "hasGroup": false,
+                "zlSourceType": 1,
+                "sourceType": 1,
+                "campaignTagList": [],
+                "hourRoomSpan": 0,
+                "name": "李欣宇和他朋友的青年旅舍",
+                "hasPackage": false,
+                "lat": 38.832132,
+                "lng": 105.680516,
+                "markNumbers": 5,
+                "dist": 921425.4375,
+                "flagshipFlag": false,
+                "lowestPrice": 48,
+                "dayRoomSpan": 1,
+                "hotelStar": "经济型",
+                "hotelAppointmentExtType": 2,
+                "withoutAds": true,
+                "historyCouponCount": 46,
+                "posdescr": "新华街",
+                "useTime": "",
+                "brandId": 0,
+                "avgScore": 4.8,
+                "shopId": 0,
+                "roomType": "",
+                "serviceDesc": [],
+                "poiSaleAndSpanTag": "46人消费",
+                "poiRecommendTag": "经济型",
+                "poiLastOrderTime": "",
+                "scoreIntro": "4.8分 很好",
+                "originalPriceDesc": "",
+                "originalPrice": 48,
+                "showOriginalPrice": false,
+                "priceType": 1,
+                "taxFee": 0,
+                "specialTags": [],
+                "giftHouseTags": [],
+                "strollTags": [],
+                "commentsCountDesc": "6条评论",
+                "poiTagList": [],
+                "recommendInfo": {},
+                "ugcInfo": ""
+            },
+            {
+                "historySaleCount": "1000+人消费",
+                "frontImg": "http://p1.meituan.net/216.0/tdchotel/__48049248__3218348.jpg",
+                "isCooperated": 1,
+                "styles": {
+                    "poiLastOrderTime": 2,
+                    "scoreIntro": 1,
+                    "poiSaleAndSpanTag": 2,
+                    "poiRecommendTag": 2
+                },
+                "poiAttrTagList": [],
+                "fodderInfo": [{
+                        "boothId": 9003008,
+                        "description": "列表页银冠",
+                        "url": "http://p1.meituan.net/hotelnoah/7ff77d79-5924-4fc4-b99d-ba6f7505990f.png"
+                    },
+                    {
+                        "boothId": 1000,
+                        "description": "hos优选酒店搜索词",
+                        "url": "http://p1.meituan.net/hotelnoah/cedaceba-1cb4-4ab7-824d-b1701d49d82f.jpg"
+                    }
+                ],
+                "showType": "hotel",
+                "addr": "阿拉善左旗左旗巴彦浩特镇吉兰泰西路六小东隔壁",
+                "cityId": 150,
+                "poiid": 6995854,
+                "cooperationInfo": "",
+                "areaId": 0,
+                "areaName": "阿拉善左旗",
+                "cates": "20,20606,20426,20769,20707,385,21019,79,20625,20607",
+                "hasGroup": false,
+                "zlSourceType": 1,
+                "sourceType": 1,
+                "campaignTagList": [],
+                "hourRoomSpan": 0,
+                "name": "桃李宾馆",
+                "hasPackage": false,
+                "lat": 38.843372,
+                "lng": 105.699597,
+                "markNumbers": 579,
+                "dist": 919560.75,
+                "flagshipFlag": false,
+                "lowestPrice": 73,
+                "dayRoomSpan": 1,
+                "hotelStar": "经济型",
+                "hotelAppointmentExtType": 2,
+                "withoutAds": true,
+                "historyCouponCount": 4229,
+                "posdescr": "阿拉善左旗",
+                "useTime": "",
+                "brandId": 0,
+                "avgScore": 4.6,
+                "shopId": 0,
+                "roomType": "",
+                "serviceDesc": [],
+                "poiSaleAndSpanTag": "1000+人消费",
+                "poiRecommendTag": "经济型",
+                "poiLastOrderTime": "23分钟前有人预订",
+                "scoreIntro": "4.6分 很好",
+                "originalPriceDesc": "",
+                "originalPrice": 73,
+                "showOriginalPrice": false,
+                "priceType": 1,
+                "taxFee": 0,
+                "specialTags": [],
+                "giftHouseTags": [],
+                "strollTags": [],
+                "commentsCountDesc": "602条评论",
+                "poiTagList": [],
+                "recommendInfo": {},
+                "ugcInfo": ""
+            },
+            {
+                "historySaleCount": "1000+人消费",
+                "frontImg": "http://p0.meituan.net/216.0/tdchotel/1ce6a4c489a6349e1f53410575bd0af5125795.jpg",
+                "isCooperated": 1,
+                "styles": {
+                    "poiLastOrderTime": 2,
+                    "scoreIntro": 1,
+                    "poiSaleAndSpanTag": 2,
+                    "poiRecommendTag": 2
+                },
+                "poiAttrTagList": [
+                    "情侣约会"
+                ],
+                "fodderInfo": [{
+                    "boothId": 1000,
+                    "description": "QUERY本地优选",
+                    "url": "http://p0.meituan.net/hotelnoah/0f4ffede-f097-4587-8853-d1c525cbb013.png"
+                }],
+                "showType": "hotel",
+                "addr": "阿拉善左旗和硕特路19号贵发祥斜对面",
+                "cityId": 150,
+                "poiid": 50735852,
+                "cooperationInfo": "",
+                "areaId": 0,
+                "areaName": "阿拉善左旗职业技术学院",
+                "cates": "20,20606,20426,20769,20707,21019,79,20625,20607",
+                "hasGroup": false,
+                "zlSourceType": 1,
+                "sourceType": 1,
+                "campaignTagList": [],
+                "hourRoomSpan": 0,
+                "name": "怡家爱巢网络宾馆",
+                "hasPackage": false,
+                "lat": 38.845027,
+                "lng": 105.701569,
+                "markNumbers": 148,
+                "dist": 919357.25,
+                "flagshipFlag": false,
+                "lowestPrice": 118,
+                "dayRoomSpan": 1,
+                "hotelStar": "",
+                "hotelAppointmentExtType": 2,
+                "withoutAds": true,
+                "historyCouponCount": 1518,
+                "posdescr": "阿拉善左旗职业技术学院",
+                "useTime": "",
+                "brandId": 0,
+                "avgScore": 4.8,
+                "shopId": 0,
+                "roomType": "",
+                "serviceDesc": [],
+                "poiSaleAndSpanTag": "1000+人消费",
+                "poiRecommendTag": "",
+                "poiLastOrderTime": "",
+                "scoreIntro": "4.8分 很好",
+                "originalPriceDesc": "",
+                "originalPrice": 118,
+                "showOriginalPrice": false,
+                "priceType": 1,
+                "taxFee": 0,
+                "specialTags": [],
+                "giftHouseTags": [],
+                "strollTags": [],
+                "commentsCountDesc": "148条评论",
+                "poiTagList": [],
+                "recommendInfo": {},
+                "ugcInfo": ""
+            },
+            {
+                "historySaleCount": "1000+人消费",
+                "frontImg": "http://p0.meituan.net/216.0/tdchotel/5a1de6d7cb9b71b33254386b84ee4e3155410.jpg",
+                "isCooperated": 1,
+                "styles": {
+                    "poiLastOrderTime": 2,
+                    "scoreIntro": 1,
+                    "poiSaleAndSpanTag": 2,
+                    "poiRecommendTag": 2
+                },
+                "poiAttrTagList": [
+                    "会议酒店",
+                    "商务出行"
+                ],
+                "fodderInfo": [{
+                    "boothId": 1000,
+                    "description": "hos优选酒店搜索词",
+                    "url": "http://p1.meituan.net/hotelnoah/cedaceba-1cb4-4ab7-824d-b1701d49d82f.jpg"
+                }],
+                "showType": "hotel",
+                "addr": "阿拉善左旗安德路黄河财富中心旁（阿拉善盟图书馆对面）",
+                "cityId": 150,
+                "poiid": 41567503,
+                "cooperationInfo": "",
+                "areaId": 0,
+                "areaName": "阿拉善左旗",
+                "cates": "20,20606,20426,20995,20769,20707,21019,20963,79,20625,20607",
+                "hasGroup": false,
+                "zlSourceType": 1,
+                "sourceType": 1,
+                "campaignTagList": [],
+                "hourRoomSpan": 0,
+                "name": "速8酒店(黄河财富中心店)",
+                "hasPackage": false,
+                "lat": 38.846084,
+                "lng": 105.723586,
+                "markNumbers": 161,
+                "dist": 917461.0625,
+                "flagshipFlag": false,
+                "lowestPrice": 165,
+                "dayRoomSpan": 1,
+                "hotelStar": "经济型",
+                "hotelAppointmentExtType": 2,
+                "withoutAds": true,
+                "historyCouponCount": 2204,
+                "posdescr": "阿拉善左旗",
+                "useTime": "",
+                "brandId": 23752,
+                "avgScore": 4.6,
+                "shopId": 0,
+                "roomType": "",
+                "serviceDesc": [],
+                "poiSaleAndSpanTag": "1000+人消费",
+                "poiRecommendTag": "经济型",
+                "poiLastOrderTime": "",
+                "scoreIntro": "4.6分 很好",
+                "originalPriceDesc": "",
+                "originalPrice": 238,
+                "showOriginalPrice": false,
+                "priceType": 1,
+                "taxFee": 0,
+                "specialTags": [],
+                "giftHouseTags": [],
+                "strollTags": [],
+                "priceExtInfo": "238减73",
+                "commentsCountDesc": "172条评论",
+                "poiTagList": [],
+                "recommendInfo": {},
+                "ugcInfo": ""
+            },
+            {
+                "historySaleCount": "69人消费",
+                "frontImg": "http://p0.meituan.net/216.0/tdchotel/b25e4ba0167752aaf4f30b62b4fb0b7f131298.jpg",
+                "isCooperated": 1,
+                "styles": {
+                    "poiLastOrderTime": 2,
+                    "scoreIntro": 1,
+                    "poiSaleAndSpanTag": 2,
+                    "poiRecommendTag": 2
+                },
+                "poiAttrTagList": [],
+                "fodderInfo": [{
+                    "boothId": 1000,
+                    "description": "今夜特价优选query词",
+                    "url": "http://p1.meituan.net/hotelnoah/62b2d48a-a1aa-47eb-b692-01e733999202.jpg"
+                }],
+                "showType": "hotel",
+                "addr": "阿拉善左旗乌力吉苏木312省道额旗饭店旁（加油站旁）",
+                "cityId": 150,
+                "poiid": 51062161,
+                "cooperationInfo": "",
+                "areaId": 0,
+                "areaName": "南环街道",
+                "cates": "20,20606,20426,20769,20707,21019,79,20625,20607",
+                "hasGroup": false,
+                "zlSourceType": 1,
+                "sourceType": 1,
+                "campaignTagList": [],
+                "hourRoomSpan": 0,
+                "name": "聚金酒店",
+                "hasPackage": false,
+                "lat": 40.741623,
+                "lng": 104.50649,
+                "markNumbers": 7,
+                "dist": 1003406.9375,
+                "flagshipFlag": false,
+                "lowestPrice": 90,
+                "dayRoomSpan": 1,
+                "hotelStar": "",
+                "hotelAppointmentExtType": 2,
+                "withoutAds": true,
+                "historyCouponCount": 69,
+                "posdescr": "南环街道",
+                "useTime": "",
+                "brandId": 0,
+                "avgScore": 4.6,
+                "shopId": 0,
+                "roomType": "",
+                "serviceDesc": [],
+                "poiSaleAndSpanTag": "69人消费",
+                "poiRecommendTag": "",
+                "poiLastOrderTime": "",
+                "scoreIntro": "4.6分 很好",
+                "originalPriceDesc": "",
+                "originalPrice": 90,
+                "showOriginalPrice": false,
+                "priceType": 1,
+                "taxFee": 0,
+                "specialTags": [],
+                "giftHouseTags": [],
+                "strollTags": [],
+                "commentsCountDesc": "9条评论",
+                "poiTagList": [],
+                "recommendInfo": {},
+                "ugcInfo": ""
+            }
+        ],
+        "earth_map_txt": "符合条件酒店较少，缩小地图可在更大范围内查找~",
+        "goodHotels": {},
+        "feedPos": 9,
+        "travelRecommendPos": 10,
+        "bizArea": {
+            "bizAreaList": []
+        },
+        "serviceGuaranteeImgUrl": "http://p1.meituan.net/codeman/a11d72e707fe9d2e67c850a8a47be4df9229.png",
+        "rankExData": {
+            "prompt": "试试搜索：",
+            "qrPos": "-1",
+            "searchIntentionList": [],
+            "queryRewrite": {
+                "qctype": 0
+            }
+        },
+        "phoenixRecommendPos": 10,
+        "showPhoenixRecommend": false,
+        "highStarRights": "",
+        "isLandMarkIntention": false
+    },
+    "ct_pois_map": [{
+            "poiid": 163163208,
+            "ct_poi": "090099785189345651155594753822172654714_c0_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 159749998,
+            "ct_poi": "090099785189345651155594753822172654714_c1_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 79345762,
+            "ct_poi": "090099785189345651155594753822172654714_c2_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 118172320,
+            "ct_poi": "164698667990301330348334300902444660460_c3_e14962950913918564804_v1012544507998694694__3_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 163018784,
+            "ct_poi": "090099785189345651155594753822172654714_c4_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 5127283,
+            "ct_poi": "068648308441659135811277894879014945291_c5_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 161065906,
+            "ct_poi": "090099785189345651155594753822172654714_c6_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 4627113,
+            "ct_poi": "090099785189345651155594753822172654714_c7_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 90330690,
+            "ct_poi": "090099785189345651155594753822172654714_c8_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 4014930,
+            "ct_poi": "090099785189345651155594753822172654714_c9_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 4861569,
+            "ct_poi": "090099785189345651155594753822172654714_c10_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 5852906,
+            "ct_poi": "100586259664613817755736971740160893236_c11_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 6034714,
+            "ct_poi": "090099785189345651155594753822172654714_c12_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 41748353,
+            "ct_poi": "090099785189345651155594753822172654714_c13_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 165879098,
+            "ct_poi": "090099785189345651155594753822172654714_c14_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 163008893,
+            "ct_poi": "090099785189345651155594753822172654714_c15_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 6995854,
+            "ct_poi": "090099785189345651155594753822172654714_c16_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 50735852,
+            "ct_poi": "090099785189345651155594753822172654714_c17_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 41567503,
+            "ct_poi": "090099785189345651155594753822172654714_c18_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 51062161,
+            "ct_poi": "090099785189345651155594753822172654714_c19_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        }
+    ],
+    "ct_pois": [{
+            "poiid": 163163208,
+            "ct_poi": "090099785189345651155594753822172654714_c0_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 159749998,
+            "ct_poi": "090099785189345651155594753822172654714_c1_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 79345762,
+            "ct_poi": "090099785189345651155594753822172654714_c2_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 118172320,
+            "ct_poi": "164698667990301330348334300902444660460_c3_e14962950913918564804_v1012544507998694694__3_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 163018784,
+            "ct_poi": "090099785189345651155594753822172654714_c4_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 5127283,
+            "ct_poi": "068648308441659135811277894879014945291_c5_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 161065906,
+            "ct_poi": "090099785189345651155594753822172654714_c6_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 4627113,
+            "ct_poi": "090099785189345651155594753822172654714_c7_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 90330690,
+            "ct_poi": "090099785189345651155594753822172654714_c8_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 4014930,
+            "ct_poi": "090099785189345651155594753822172654714_c9_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 4861569,
+            "ct_poi": "090099785189345651155594753822172654714_c10_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 5852906,
+            "ct_poi": "100586259664613817755736971740160893236_c11_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 6034714,
+            "ct_poi": "090099785189345651155594753822172654714_c12_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 41748353,
+            "ct_poi": "090099785189345651155594753822172654714_c13_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 165879098,
+            "ct_poi": "090099785189345651155594753822172654714_c14_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 163008893,
+            "ct_poi": "090099785189345651155594753822172654714_c15_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 6995854,
+            "ct_poi": "090099785189345651155594753822172654714_c16_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 50735852,
+            "ct_poi": "090099785189345651155594753822172654714_c17_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 41567503,
+            "ct_poi": "090099785189345651155594753822172654714_c18_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        },
+        {
+            "poiid": 51062161,
+            "ct_poi": "090099785189345651155594753822172654714_c19_e14962950913918564804_anull_o1_dhotelpoitagb_k1002"
+        }
+    ],
+    "propagateData": [{
+            "id": 163163208,
+            "data": {
+                "content": "CYksnts4RuHwqJNWe0pdnDs6vCMNkncGi6IaGqvT5LwGURFp/VuPgxrZieeO9nviHYOhHWPshecgLt1LaoW7CwjYPqxE1gz0p6zNbL3cW0dGHf2czY5GyQpQOJOVJ785xBoHfdNKtHJl16lwO8sNK/dmDo6eAOdVCWXp5jCQihW2sQAxNNeRAxYEOuflY9xZ"
+            }
+        },
+        {
+            "id": 159749998,
+            "data": {
+                "content": "CYksnts4RuHwqJNWe0pdnJwMKzKt2/48/k01pWgQO9rShAXnIVVvuLcdAxMbaaW+oihuw4ruO5In+uH1fB2qlcER7NeBdvJBqCmULVUlnwCUtL0f8fdiCjKmU+lOSml1K2EAfACTSptLXJ0LMa11B+1imscZ/1WNU7mDYzQ3aAou/hy+1G8ukdURiVQSKFsl"
+            }
+        },
+        {
+            "id": 79345762,
+            "data": {
+                "content": "CYksnts4RuHwqJNWe0pdnB9gzgz3fJyvtpgvLLTp28w3JnGsYFFITgius6q3s6Stoihuw4ruO5In+uH1fB2qld8/AnilmQa0b3mdBA3e1Af0As6X5SEMozrdXuOvMPVyK2EAfACTSptLXJ0LMa11B6k8seayiSvVb+vGeAZ0PZUu/hy+1G8ukdURiVQSKFsl"
+            }
+        },
+        {
+            "id": 118172320,
+            "data": {
+                "content": "CYksnts4RuHwqJNWe0pdnLTclcdbnGOvQO4qVjiEmE2VRBipeYZbK6oHtDk3YBr7oihuw4ruO5In+uH1fB2qlcfoqjC2PDfM/D4iYaEyQRsRAY/L0MTNpilEpaiaFR+CK2EAfACTSptLXJ0LMa11B6k8seayiSvVb+vGeAZ0PZUu/hy+1G8ukdURiVQSKFsl"
+            }
+        },
+        {
+            "id": 163018784,
+            "data": {
+                "content": "CYksnts4RuHwqJNWe0pdnPqEevbLkmEypP0VqS2UBz/ShAXnIVVvuLcdAxMbaaW+oihuw4ruO5In+uH1fB2qlQGhwBqd7yHX8CViG/OJLCeUtL0f8fdiCjKmU+lOSml1K2EAfACTSptLXJ0LMa11B6k8seayiSvVb+vGeAZ0PZUu/hy+1G8ukdURiVQSKFsl"
+            }
+        },
+        {
+            "id": 5127283,
+            "data": {
+                "content": "CYksnts4RuHwqJNWe0pdnK8Ng5tnwha8SdRG15RNDu4GURFp/VuPgxrZieeO9nviHYOhHWPshecgLt1LaoW7CxoEKhJDud93bgzZthTfUoY9m3CH8lIsRyO6+qneLWfnzU4AslgGgg8p/P9U1SqpbJq18qNeHpt/bCGL/Wu/+J8aEPeqZaLuKrUyAL5bXys1"
+            }
+        },
+        {
+            "id": 161065906,
+            "data": {
+                "content": "CYksnts4RuHwqJNWe0pdnA1ecxBgTKKe0V3chB9M4oLShAXnIVVvuLcdAxMbaaW+oihuw4ruO5In+uH1fB2qlYm0NudqmhmTUUkPGTZs1rq/fMq61g7EBlttqUj+YB6KK2EAfACTSptLXJ0LMa11B6k8seayiSvVb+vGeAZ0PZUu/hy+1G8ukdURiVQSKFsl"
+            }
+        },
+        {
+            "id": 4627113,
+            "data": {
+                "content": "CYksnts4RuHwqJNWe0pdnDLG/S2MIXjX8gIlTTc/3PMGURFp/VuPgxrZieeO9nviHYOhHWPshecgLt1LaoW7C25FIxsxwDoxO9+8qgaFv/hGHf2czY5GyQpQOJOVJ785xBoHfdNKtHJl16lwO8sNKwv7+cyd3/Isk0mpX5x60Mu2sQAxNNeRAxYEOuflY9xZ"
+            }
+        },
+        {
+            "id": 90330690,
+            "data": {
+                "content": "CYksnts4RuHwqJNWe0pdnA1ecxBgTKKe0V3chB9M4oLShAXnIVVvuLcdAxMbaaW+oihuw4ruO5In+uH1fB2qlcOoXApzzchQb7RFDSabYsVGHf2czY5GyQpQOJOVJ785xBoHfdNKtHJl16lwO8sNKwv7+cyd3/Isk0mpX5x60Mu2sQAxNNeRAxYEOuflY9xZ"
+            }
+        },
+        {
+            "id": 4014930,
+            "data": {
+                "content": "CYksnts4RuHwqJNWe0pdnJwMKzKt2/48/k01pWgQO9o3JnGsYFFITgius6q3s6Stoihuw4ruO5In+uH1fB2qlcszvyA/wpY1/HkbTJJ63rONx9sCTQoFa+0nRzQtBEeuK2EAfACTSptLXJ0LMa11B6k8seayiSvVb+vGeAZ0PZUu/hy+1G8ukdURiVQSKFsl"
+            }
+        },
+        {
+            "id": 4861569,
+            "data": {
+                "content": "CYksnts4RuHwqJNWe0pdnBfdXO/oey9L4QN2MsyRADnShAXnIVVvuLcdAxMbaaW+oihuw4ruO5In+uH1fB2qldaQtXHCTByoODIywXkx7JNGHf2czY5GyQpQOJOVJ785xBoHfdNKtHJl16lwO8sNKwv7+cyd3/Isk0mpX5x60Mu2sQAxNNeRAxYEOuflY9xZ"
+            }
+        },
+        {
+            "id": 5852906,
+            "data": {
+                "content": "CYksnts4RuHwqJNWe0pdnHDQboQHZq84mJMFu3wAP68GURFp/VuPgxrZieeO9nviHYOhHWPshecgLt1LaoW7Cwz4as/SPB9V5qdlgRGtvAw9m3CH8lIsRyO6+qneLWfnzU4AslgGgg8p/P9U1SqpbJq18qNeHpt/bCGL/Wu/+J8aEPeqZaLuKrUyAL5bXys1"
+            }
+        },
+        {
+            "id": 6034714,
+            "data": {
+                "content": "CYksnts4RuHwqJNWe0pdnP5jrSa4ol1ag/oJR4L79HkGURFp/VuPgxrZieeO9nviHYOhHWPshecgLt1LaoW7C6QSY3AWWpy2dCA8XF11hJpGHf2czY5GyQpQOJOVJ785xBoHfdNKtHJl16lwO8sNKwv7+cyd3/Isk0mpX5x60Mu2sQAxNNeRAxYEOuflY9xZ"
+            }
+        },
+        {
+            "id": 41748353,
+            "data": {
+                "content": "CYksnts4RuHwqJNWe0pdnHsVJ9v15zvRJ3aagKZ2quUGURFp/VuPgxrZieeO9nviHYOhHWPshecgLt1LaoW7C8BUFo3hcvtHgB3ALoYb5IVGHf2czY5GyQpQOJOVJ785xBoHfdNKtHJl16lwO8sNKwv7+cyd3/Isk0mpX5x60Mu2sQAxNNeRAxYEOuflY9xZ"
+            }
+        },
+        {
+            "id": 165879098,
+            "data": {
+                "content": "CYksnts4RuHwqJNWe0pdnHDQboQHZq84mJMFu3wAP68GURFp/VuPgxrZieeO9nviHYOhHWPshecgLt1LaoW7CzaOSuaJhHDN4mZhHQVQ7SVGHf2czY5GyQpQOJOVJ785xBoHfdNKtHJl16lwO8sNKwv7+cyd3/Isk0mpX5x60Mu2sQAxNNeRAxYEOuflY9xZ"
+            }
+        },
+        {
+            "id": 163008893,
+            "data": {
+                "content": "CYksnts4RuHwqJNWe0pdnIDquRwJh4okCdXvuECKR+UGURFp/VuPgxrZieeO9nviHYOhHWPshecgLt1LaoW7C7UIEwkZIfK1DbNkHEaXl6NGHf2czY5GyQpQOJOVJ785xBoHfdNKtHJl16lwO8sNKwv7+cyd3/Isk0mpX5x60Mu2sQAxNNeRAxYEOuflY9xZ"
+            }
+        },
+        {
+            "id": 6995854,
+            "data": {
+                "content": "CYksnts4RuHwqJNWe0pdnLLegwVYSkAazAcvFXGX05cGURFp/VuPgxrZieeO9nviHYOhHWPshecgLt1LaoW7CyB/qqO4GwC/ABhqkSI37w1GHf2czY5GyQpQOJOVJ785xBoHfdNKtHJl16lwO8sNKwv7+cyd3/Isk0mpX5x60Mu2sQAxNNeRAxYEOuflY9xZ"
+            }
+        },
+        {
+            "id": 50735852,
+            "data": {
+                "content": "CYksnts4RuHwqJNWe0pdnKpas9nYAFVVqzO3KMwpzBjShAXnIVVvuLcdAxMbaaW+oihuw4ruO5In+uH1fB2qlaUdfJPp7eHlCzt3OE4xeD9GHf2czY5GyQpQOJOVJ785xBoHfdNKtHJl16lwO8sNKwv7+cyd3/Isk0mpX5x60Mu2sQAxNNeRAxYEOuflY9xZ"
+            }
+        },
+        {
+            "id": 41567503,
+            "data": {
+                "content": "CYksnts4RuHwqJNWe0pdnPqEevbLkmEypP0VqS2UBz/8JJqAn+q0dDiLhKE8ZWUEoihuw4ruO5In+uH1fB2qlTBgU8DnAffkSB5fCt6rB+RGHf2czY5GyQpQOJOVJ785xBoHfdNKtHJl16lwO8sNKwv7+cyd3/Isk0mpX5x60Mu2sQAxNNeRAxYEOuflY9xZ"
+            }
+        },
+        {
+            "id": 51062161,
+            "data": {
+                "content": "CYksnts4RuHwqJNWe0pdnFLpxodviNbWzo/BbJnSCvIGURFp/VuPgxrZieeO9nviHYOhHWPshecgLt1LaoW7C4hRUbmRltVkBeZ1cw77e+A9m3CH8lIsRyO6+qneLWfnzU4AslgGgg8p/P9U1SqpbJq18qNeHpt/bCGL/Wu/+J8aEPeqZaLuKrUyAL5bXys1"
+            }
+        }
+    ],
+    "conId": "6741012633557204820",
+    "query_ids": [{
+            "poiId": 163163208,
+            "query_id": "05E5580EA2B556385C27BD38D7C661A279BFECDC6361D2529B17E4CAF3AFAC72@1530244397530",
+            "position_id": "0",
+            "query_biz_id": "hotel_search_list"
+        },
+        {
+            "poiId": 159749998,
+            "query_id": "05E5580EA2B556385C27BD38D7C661A279BFECDC6361D2529B17E4CAF3AFAC72@1530244397530",
+            "position_id": "1",
+            "query_biz_id": "hotel_search_list"
+        },
+        {
+            "poiId": 79345762,
+            "query_id": "05E5580EA2B556385C27BD38D7C661A279BFECDC6361D2529B17E4CAF3AFAC72@1530244397530",
+            "position_id": "2",
+            "query_biz_id": "hotel_search_list"
+        },
+        {
+            "poiId": 118172320,
+            "query_id": "05E5580EA2B556385C27BD38D7C661A279BFECDC6361D2529B17E4CAF3AFAC72@1530244397530",
+            "position_id": "3",
+            "query_biz_id": "hotel_search_list"
+        },
+        {
+            "poiId": 163018784,
+            "query_id": "05E5580EA2B556385C27BD38D7C661A279BFECDC6361D2529B17E4CAF3AFAC72@1530244397530",
+            "position_id": "4",
+            "query_biz_id": "hotel_search_list"
+        },
+        {
+            "poiId": 5127283,
+            "query_id": "05E5580EA2B556385C27BD38D7C661A279BFECDC6361D2529B17E4CAF3AFAC72@1530244397530",
+            "position_id": "5",
+            "query_biz_id": "hotel_search_list"
+        },
+        {
+            "poiId": 161065906,
+            "query_id": "05E5580EA2B556385C27BD38D7C661A279BFECDC6361D2529B17E4CAF3AFAC72@1530244397530",
+            "position_id": "6",
+            "query_biz_id": "hotel_search_list"
+        },
+        {
+            "poiId": 4627113,
+            "query_id": "05E5580EA2B556385C27BD38D7C661A279BFECDC6361D2529B17E4CAF3AFAC72@1530244397530",
+            "position_id": "7",
+            "query_biz_id": "hotel_search_list"
+        },
+        {
+            "poiId": 90330690,
+            "query_id": "05E5580EA2B556385C27BD38D7C661A279BFECDC6361D2529B17E4CAF3AFAC72@1530244397530",
+            "position_id": "8",
+            "query_biz_id": "hotel_search_list"
+        },
+        {
+            "poiId": 4014930,
+            "query_id": "05E5580EA2B556385C27BD38D7C661A279BFECDC6361D2529B17E4CAF3AFAC72@1530244397530",
+            "position_id": "9",
+            "query_biz_id": "hotel_search_list"
+        },
+        {
+            "poiId": 4861569,
+            "query_id": "05E5580EA2B556385C27BD38D7C661A279BFECDC6361D2529B17E4CAF3AFAC72@1530244397530",
+            "position_id": "10",
+            "query_biz_id": "hotel_search_list"
+        },
+        {
+            "poiId": 5852906,
+            "query_id": "05E5580EA2B556385C27BD38D7C661A279BFECDC6361D2529B17E4CAF3AFAC72@1530244397530",
+            "position_id": "11",
+            "query_biz_id": "hotel_search_list"
+        },
+        {
+            "poiId": 6034714,
+            "query_id": "05E5580EA2B556385C27BD38D7C661A279BFECDC6361D2529B17E4CAF3AFAC72@1530244397530",
+            "position_id": "12",
+            "query_biz_id": "hotel_search_list"
+        },
+        {
+            "poiId": 41748353,
+            "query_id": "05E5580EA2B556385C27BD38D7C661A279BFECDC6361D2529B17E4CAF3AFAC72@1530244397530",
+            "position_id": "13",
+            "query_biz_id": "hotel_search_list"
+        },
+        {
+            "poiId": 165879098,
+            "query_id": "05E5580EA2B556385C27BD38D7C661A279BFECDC6361D2529B17E4CAF3AFAC72@1530244397530",
+            "position_id": "14",
+            "query_biz_id": "hotel_search_list"
+        },
+        {
+            "poiId": 163008893,
+            "query_id": "05E5580EA2B556385C27BD38D7C661A279BFECDC6361D2529B17E4CAF3AFAC72@1530244397530",
+            "position_id": "15",
+            "query_biz_id": "hotel_search_list"
+        },
+        {
+            "poiId": 6995854,
+            "query_id": "05E5580EA2B556385C27BD38D7C661A279BFECDC6361D2529B17E4CAF3AFAC72@1530244397530",
+            "position_id": "16",
+            "query_biz_id": "hotel_search_list"
+        },
+        {
+            "poiId": 50735852,
+            "query_id": "05E5580EA2B556385C27BD38D7C661A279BFECDC6361D2529B17E4CAF3AFAC72@1530244397530",
+            "position_id": "17",
+            "query_biz_id": "hotel_search_list"
+        },
+        {
+            "poiId": 41567503,
+            "query_id": "05E5580EA2B556385C27BD38D7C661A279BFECDC6361D2529B17E4CAF3AFAC72@1530244397530",
+            "position_id": "18",
+            "query_biz_id": "hotel_search_list"
+        },
+        {
+            "poiId": 51062161,
+            "query_id": "05E5580EA2B556385C27BD38D7C661A279BFECDC6361D2529B17E4CAF3AFAC72@1530244397530",
+            "position_id": "19",
+            "query_biz_id": "hotel_search_list"
+        }
+    ]
+}

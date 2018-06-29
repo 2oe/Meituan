@@ -9,7 +9,6 @@ require(['jquery', 'render', 'bscroll'], function($, render, bscroll) {
             success: function(res) {
                 // 优化数据格式
                 var newArr = information(res);
-                console.log(newArr)
                 render('#searchTpl', '.con', newArr);
                 render('#letterTpl', '.markList', newArr);
                 var myScroll = new bscroll('section', {
@@ -20,6 +19,10 @@ require(['jquery', 'render', 'bscroll'], function($, render, bscroll) {
                     })
                     // 封装点击跳转
                 scrollToLetter(myScroll);
+                $('.con').on('click', 'p', function() {
+                    var con = $(this).html();
+                    location.href = '../../../index.html?con=' + con;
+                })
             },
             error: function(error) {
                 console.warn(error);
